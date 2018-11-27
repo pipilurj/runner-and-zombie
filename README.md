@@ -6,4 +6,6 @@ Press right to turn right<br/>
 Don't fall into the gaps<br/>
 Turn at exactly the midpoint of the tiles<br/>
 If turn is illegal, speed will drop significantly<br/>
-DON'T GET CAUGHT BY THE ZOMBIE!!!
+DON'T GET CAUGHT BY THE ZOMBIE!!!<br/>
+link:</br>
+https://pipilurj.github.io/runner-and-zombie/index.html
